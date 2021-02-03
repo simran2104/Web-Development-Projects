@@ -33,5 +33,5 @@ This repository contains all the Web Dev. Projects that I have made in my learni
 <br>
 <br><br>
 <h4 align="center">Thanks for Reading :)<br><br>
-*********************</h4>
+**********************</h4>
 </p>
